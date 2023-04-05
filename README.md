@@ -138,8 +138,6 @@ dependency mod
 
 ## Quickstart Guide - Installation
 
-I swear i will add this if you want to play this. Its easy i promise.
-
 ### Client installation
 
 1. Download the [latest release](https://github.com//Bust-Henry/Vanilla-Plus/releases/latest)
