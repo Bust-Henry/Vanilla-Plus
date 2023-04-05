@@ -28,7 +28,6 @@ This page is a showcase of mods used and also a complete list of mods used!
       - [supermartijn642corelib-1.1.6-forge-mc1.19.4](#supermartijn642corelib-116-forge-mc1194)
   - [Quickstart Guide - Installation](#quickstart-guide---installation)
     - [Client installation](#client-installation)
-    - [Server installation](#server-installation)
   - [The end](#the-end)
 
 ## Mod List
@@ -143,7 +142,15 @@ I swear i will add this if you want to play this. Its easy i promise.
 
 ### Client installation
 
-### Server installation
+1. Download the latest release
+2. Extract rar file (doesnt matter where, can be deleted later)
+3. Run forge installer
+4. Select install client option
+5. Win + R -> %appdata$
+6. Open .minecraft/mods/
+7. Copy all mods in the mods folder into the .minecraft/mods folder
+8. Start minecraft
+9. Select new profile called forge
 
 ## The end
 
