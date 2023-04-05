@@ -32,10 +32,6 @@ This page is a showcase of mods used and also a complete list of mods used!
 
 ## Mod List
 
-### balm-forge-1.19.4-6.0.2
-
-a dependecy mod for the mod waystones-forge-1.19.4-13.0.1
-
 ### chunkloaders-1.2.3-forge-mc1.19.3
 
 a quality of life mod for permanently loading chunks
@@ -49,10 +45,6 @@ Added Items:
 
 a mod to compact xp orbs, primarily for server lag reducing
 
-### configured-2.1.1-1.19.4
-
-a dependecy mod for a lot of mods. Used to add ingame config menues for some mods
-
 ### elevatorid-1.19.4-1.8.12
 
 adds a simple elevator block
@@ -61,10 +53,6 @@ Added Item:
 
 ![alt text][elevator]
 
-### fabric-api-0.76.0+1.19.4
-
-dependency mod for every second mod
-
 ### gravestone-1.19.4-1.0.3
 
 quality of life mod that preserve your inventory on death and places it in a destroyable gravestone
@@ -72,10 +60,6 @@ quality of life mod that preserve your inventory on death and places it in a des
 ### InventoryProfilesNext-fabric-1.19.4-1.9.5
 
 basicly adds buttons to sort chests
-
-### jei-1.19.4-forge-13.0.0.1
-
-dependency mod for forge
 
 ### journeymap-1.19.4-5.9.4beta2-forge
 
@@ -94,14 +78,6 @@ adds a craftable axe, that break trees in one block destruction
 Added Items:
 
 ![alt text][lumberaxe]
-
-### supermartijn642configlib-1.1.6b-forge-mc1.19
-
-dependency mod
-
-### supermartijn642corelib-1.1.6-forge-mc1.19.4
-
-dependency mod
 
 ### toms_storage-1.19.4-1.5.3
 
@@ -131,6 +107,32 @@ This mod has to much items to all put them here, but these 2 will be the most im
 - Warp Scroll: Consumable that warps you to a waystone of your choice.
 
 ![alt text][waystones]
+
+### boring zone (dependency mods)
+
+#### balm-forge-1.19.4-6.0.2
+
+a dependecy mod for the mod waystones-forge-1.19.4-13.0.1
+
+#### configured-2.1.1-1.19.4
+
+a dependecy mod for a lot of mods. Used to add ingame config menues for some mods
+
+#### fabric-api-0.76.0+1.19.4
+
+dependency mod for every second mod
+
+#### jei-1.19.4-forge-13.0.0.1
+
+dependency mod for forge
+
+#### supermartijn642configlib-1.1.6b-forge-mc1.19
+
+dependency mod
+
+#### supermartijn642corelib-1.1.6-forge-mc1.19.4
+
+dependency mod
 
 ## Quickstart Guide - Installation
 
