@@ -80,6 +80,8 @@ Added Items:
 
 ![alt text][lumberaxe]
 
+![alt text][lumberaxeusage]
+
 ### toms_storage-1.19.4-1.5.3
 
 adds a simple storage system to link all chests to one terminal
@@ -152,6 +154,7 @@ Thats all folks, if you guys want to change something about this modpack (add or
 [elevator]: https://github.com/Bust-Henry/Vanilla-Plus/blob/master/images/Elevator.png "Title"
 [fullmapview]: https://github.com/Bust-Henry/Vanilla-Plus/blob/master/images/FullMapView.png "Title"
 [lumberaxe]: https://github.com/Bust-Henry/Vanilla-Plus/blob/master/images/Lumberaxe.gif "Title"
+[lumberaxeusage]: https://github.com/Bust-Henry/Vanilla-Plus/blob/master/images/LumberaxeUsage.gif "Title"
 [minimap]: https://github.com/Bust-Henry/Vanilla-Plus/blob/master/images/Minimap.png "Title"
 [toms]: https://github.com/Bust-Henry/Vanilla-Plus/blob/master/images/Toms.gif "Title"
 [tomsrecipe]: https://github.com/Bust-Henry/Vanilla-Plus/blob/master/images/TomsRecipe.gif "Title"
