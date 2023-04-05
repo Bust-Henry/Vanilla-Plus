@@ -9,22 +9,22 @@ This page is a showcase of mods used and also a complete list of mods used!
 
 - [Vanilla-Plus](#vanilla-plus)
   - [Mod List](#mod-list)
-    - [balm-forge-1.19.4-6.0.2 : a dependecy mod for the mod waystones-forge-1.19.4-13.0.1](#balm-forge-1194-602--a-dependecy-mod-for-the-mod-waystones-forge-1194-1301)
-    - [chunkloaders-1.2.3-forge-mc1.19.3 : a quality of life mod for permanently loading chunks](#chunkloaders-123-forge-mc1193--a-quality-of-life-mod-for-permanently-loading-chunks)
-    - [Clumps-forge-1.19.4-10.0.0.2 : a mod to compact xp orbs, primarily for server lag reducing](#clumps-forge-1194-10002--a-mod-to-compact-xp-orbs-primarily-for-server-lag-reducing)
-    - [configured-2.1.1-1.19.4 : a dependecy mod for a lot of mods. Used to add ingame config menues for some mods](#configured-211-1194--a-dependecy-mod-for-a-lot-of-mods-used-to-add-ingame-config-menues-for-some-mods)
-    - [elevatorid-1.19.4-1.8.12 : adds a simple elevator block](#elevatorid-1194-1812--adds-a-simple-elevator-block)
-    - [fabric-api-0.76.0+1.19.4 : dependency mod for every second mod](#fabric-api-07601194--dependency-mod-for-every-second-mod)
-    - [gravestone-1.19.4-1.0.3 : quality of life mod that preserve your inventory on death and places it in a destroyable gravestone](#gravestone-1194-103--quality-of-life-mod-that-preserve-your-inventory-on-death-and-places-it-in-a-destroyable-gravestone)
-    - [InventoryProfilesNext-fabric-1.19.4-1.9.5 : basicly adds buttons to sort chests](#inventoryprofilesnext-fabric-1194-195--basicly-adds-buttons-to-sort-chests)
-    - [jei-1.19.4-forge-13.0.0.1 : dependency mod for forge](#jei-1194-forge-13001--dependency-mod-for-forge)
-    - [journeymap-1.19.4-5.9.4beta2-forge : Map mod. Adds a minimap, waypoints and more map features](#journeymap-1194-594beta2-forge--map-mod-adds-a-minimap-waypoints-and-more-map-features)
-    - [lumberjack-2.3.4 : adds a craftable axe, that break trees in one block destruction](#lumberjack-234--adds-a-craftable-axe-that-break-trees-in-one-block-destruction)
-    - [supermartijn642configlib-1.1.6b-forge-mc1.19 : dependency mod](#supermartijn642configlib-116b-forge-mc119--dependency-mod)
-    - [supermartijn642corelib-1.1.6-forge-mc1.19.4 : dependency mod](#supermartijn642corelib-116-forge-mc1194--dependency-mod)
-    - [toms_storage-1.19.4-1.5.3 : adds a simple storage system to link all chests to one terminal](#toms_storage-1194-153--adds-a-simple-storage-system-to-link-all-chests-to-one-terminal)
-    - [trashcans-1.0.17a-forge-mc1.19.3 : adds a trashcan block that instantly voids items](#trashcans-1017a-forge-mc1193--adds-a-trashcan-block-that-instantly-voids-items)
-    - [waystones-forge-1.19.4-13.0.1 : adds a mod that lets you create waystones, that you can port to. (Combined with chunkloaders, to create farms further away from base)](#waystones-forge-1194-1301--adds-a-mod-that-lets-you-create-waystones-that-you-can-port-to-combined-with-chunkloaders-to-create-farms-further-away-from-base)
+    - [balm-forge-1.19.4-6.0.2](#balm-forge-1194-602)
+    - [chunkloaders-1.2.3-forge-mc1.19.3](#chunkloaders-123-forge-mc1193)
+    - [Clumps-forge-1.19.4-10.0.0.2](#clumps-forge-1194-10002)
+    - [configured-2.1.1-1.19.4](#configured-211-1194)
+    - [elevatorid-1.19.4-1.8.12](#elevatorid-1194-1812)
+    - [fabric-api-0.76.0+1.19.4](#fabric-api-07601194)
+    - [gravestone-1.19.4-1.0.3](#gravestone-1194-103)
+    - [InventoryProfilesNext-fabric-1.19.4-1.9.5](#inventoryprofilesnext-fabric-1194-195)
+    - [jei-1.19.4-forge-13.0.0.1](#jei-1194-forge-13001)
+    - [journeymap-1.19.4-5.9.4beta2-forge](#journeymap-1194-594beta2-forge)
+    - [lumberjack-2.3.4](#lumberjack-234)
+    - [supermartijn642configlib-1.1.6b-forge-mc1.19](#supermartijn642configlib-116b-forge-mc119)
+    - [supermartijn642corelib-1.1.6-forge-mc1.19.4](#supermartijn642corelib-116-forge-mc1194)
+    - [toms_storage-1.19.4-1.5.3](#toms_storage-1194-153)
+    - [trashcans-1.0.17a-forge-mc1.19.3](#trashcans-1017a-forge-mc1193)
+    - [waystones-forge-1.19.4-13.0.1](#waystones-forge-1194-1301)
   - [Quickstart Guide - Installation](#quickstart-guide---installation)
     - [Client installation](#client-installation)
     - [Server installation](#server-installation)
@@ -32,34 +32,54 @@ This page is a showcase of mods used and also a complete list of mods used!
 
 ## Mod List
 
-### balm-forge-1.19.4-6.0.2 : a dependecy mod for the mod waystones-forge-1.19.4-13.0.1
+### balm-forge-1.19.4-6.0.2
 
-### chunkloaders-1.2.3-forge-mc1.19.3 : a quality of life mod for permanently loading chunks
+a dependecy mod for the mod waystones-forge-1.19.4-13.0.1
+
+### chunkloaders-1.2.3-forge-mc1.19.3
+
+a quality of life mod for permanently loading chunks
 
 Added Items:
 
 ![alt text][chunkloading]
 ![alt text][chunkloadingrecipes]
 
-### Clumps-forge-1.19.4-10.0.0.2 : a mod to compact xp orbs, primarily for server lag reducing
+### Clumps-forge-1.19.4-10.0.0.2
 
-### configured-2.1.1-1.19.4 : a dependecy mod for a lot of mods. Used to add ingame config menues for some mods
+a mod to compact xp orbs, primarily for server lag reducing
 
-### elevatorid-1.19.4-1.8.12 : adds a simple elevator block
+### configured-2.1.1-1.19.4
+
+a dependecy mod for a lot of mods. Used to add ingame config menues for some mods
+
+### elevatorid-1.19.4-1.8.12
+
+adds a simple elevator block
 
 Added Item:
 
 ![alt text][elevator]
 
-### fabric-api-0.76.0+1.19.4 : dependency mod for every second mod
+### fabric-api-0.76.0+1.19.4
 
-### gravestone-1.19.4-1.0.3 : quality of life mod that preserve your inventory on death and places it in a destroyable gravestone
+dependency mod for every second mod
 
-### InventoryProfilesNext-fabric-1.19.4-1.9.5 : basicly adds buttons to sort chests
+### gravestone-1.19.4-1.0.3
 
-### jei-1.19.4-forge-13.0.0.1 : dependency mod for forge
+quality of life mod that preserve your inventory on death and places it in a destroyable gravestone
 
-### journeymap-1.19.4-5.9.4beta2-forge : Map mod. Adds a minimap, waypoints and more map features
+### InventoryProfilesNext-fabric-1.19.4-1.9.5
+
+basicly adds buttons to sort chests
+
+### jei-1.19.4-forge-13.0.0.1
+
+dependency mod for forge
+
+### journeymap-1.19.4-5.9.4beta2-forge
+
+Map mod. Adds a minimap, waypoints and more map features
 
 Added HUD features:
 
@@ -67,31 +87,43 @@ Added HUD features:
 ![alt text][fullmapview]
 ![alt text][waypoint]
 
-### lumberjack-2.3.4 : adds a craftable axe, that break trees in one block destruction
+### lumberjack-2.3.4
+
+adds a craftable axe, that break trees in one block destruction
 
 Added Items:
 
 ![alt text][lumberaxe]
 
-### supermartijn642configlib-1.1.6b-forge-mc1.19 : dependency mod
+### supermartijn642configlib-1.1.6b-forge-mc1.19
 
-### supermartijn642corelib-1.1.6-forge-mc1.19.4 : dependency mod
+dependency mod
 
-### toms_storage-1.19.4-1.5.3 : adds a simple storage system to link all chests to one terminal
+### supermartijn642corelib-1.1.6-forge-mc1.19.4
+
+dependency mod
+
+### toms_storage-1.19.4-1.5.3
+
+adds a simple storage system to link all chests to one terminal
 
 Added Items:
 
 ![alt text][toms]
 ![alt text][tomsrecipe]
 
-### trashcans-1.0.17a-forge-mc1.19.3 : adds a trashcan block that instantly voids items
+### trashcans-1.0.17a-forge-mc1.19.3
+
+adds a trashcan block that instantly voids items
 
 Added Item:
 
 ![alt text][trashcan]
 ![alt text][trashcanrecipe]
 
-### waystones-forge-1.19.4-13.0.1 : adds a mod that lets you create waystones, that you can port to. (Combined with chunkloaders, to create farms further away from base)
+### waystones-forge-1.19.4-13.0.1
+
+adds a mod that lets you create waystones, that you can port to. (Combined with chunkloaders, to create farms further away from base)
 
 This mod has to much items to all put them here, but these 2 will be the most important:
 
