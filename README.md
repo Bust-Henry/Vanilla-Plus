@@ -142,7 +142,7 @@ I swear i will add this if you want to play this. Its easy i promise.
 
 ### Client installation
 
-1. Download the latest release
+1. Download the [latest release](https://github.com//Bust-Henry/Vanilla-Plus/releases/latest)
 2. Extract rar file (doesnt matter where, can be deleted later)
 3. Run forge installer
 4. Select install client option
