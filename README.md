@@ -12,6 +12,11 @@ balm-forge-1.19.4-6.0.2 : a dependecy mod for the mod waystones-forge-1.19.4-13.
 
 chunkloaders-1.2.3-forge-mc1.19.3 : a quality of life mod for permanently loading chunks
 
+Added Items:
+
+![alt text][ChunkLoaderRecipe]
+![alt text][ChunkLoader]
+
 Clumps-forge-1.19.4-10.0.0.2 : a mod to compact xp orbs, primarily for server lag reducing
 
 configured-2.1.1-1.19.4 : a dependecy mod for a lot of mods. Used to add ingame config menues for some mods
@@ -46,3 +51,10 @@ waystones-forge-1.19.4-13.0.1 : adds a mod that lets you create waystones, that 
 
 ## The end
 Thats all folks, if you guys want to change something about this modpack (add or remove mods), message me on discord or, post suggestions in the #modpack-disccusion textchannel.
+
+
+
+
+
+[ChunkLoaderRecipe]: https://github.com/Bust-Henry/Vanilla-Plus/blob/master/ChunkLoadingRecipes.gif "Title"
+[ChunkLoader]: https://github.com/Bust-Henry/Vanilla-Plus/blob/master/ChunkLoading.gif "Title"
