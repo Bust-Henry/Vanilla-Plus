@@ -139,6 +139,8 @@ dependency mod
 ## Quickstart Guide - Installation
 
 ### Client installation
+IMPORTANT:
+Requires installed Vanilla Minecraft (1.19.4) and [Openjdk](https://jdk.java.net/) install on your pc.
 
 1. Download the [latest release](https://github.com//Bust-Henry/Vanilla-Plus/releases/latest)
 2. Extract rar file (doesnt matter where, can be deleted later)
