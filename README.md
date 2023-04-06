@@ -140,11 +140,11 @@ dependency mod
 
 ### Client installation
 IMPORTANT:
-Requires installed Vanilla Minecraft (1.19.4) and [Openjdk](https://jdk.java.net/) install on your pc.
+Requires installed Vanilla Minecraft (1.19.4) and [Openjdk](https://www.oracle.com/de/java/technologies/downloads/#java20) install on your pc.
 
 1. Download the [latest release](https://github.com//Bust-Henry/Vanilla-Plus/releases/latest)
 2. Extract rar file (doesnt matter where, can be deleted later)
-3. Run forge installer
+3. Run forge-1.19.4-45.0.40-installer.jar (This step wont work without java jdk!)
 4. Select install client option
 5. Win + R -> %appdata$
 6. Open .minecraft/mods/
