@@ -3,7 +3,9 @@
 The offical Vanilla Plus Modpack of the Driftveil City Discord
 
 This modpack was designed for Minecraft version 1.19.4 .
-An upadte for later versions of Minecraft are not planned yet. (But not impossible if we maybe play minecraft again in a year or something)
+
+Note:
+This is not the latest version of this modpack, check out the [latest release](https://github.com//Bust-Henry/Vanilla-Plus/releases/latest)
 
 This page is a showcase of mods used and also a complete list of mods used!
 
@@ -141,8 +143,7 @@ dependency mod
 ### Client installation
 IMPORTANT:
 Requires installed Vanilla Minecraft (1.19.4) and [Openjdk](https://www.oracle.com/de/java/technologies/downloads/#java20) install on your pc.
-
-1. Download the [latest release](https://github.com//Bust-Henry/Vanilla-Plus/releases/latest)
+1. Download the [1.19.4-Release](https://github.com/Bust-Henry/Vanilla-Plus/releases/tag/1.19.4-Release)
 2. Extract rar file (doesnt matter where, can be deleted later)
 3. Run forge-1.19.4-45.0.40-installer.jar (This step wont work without java jdk!)
 4. Select install client option
