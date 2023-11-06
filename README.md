@@ -146,7 +146,7 @@ Requires installed Vanilla Minecraft (1.19.4) and [Openjdk](https://www.oracle.c
 2. Extract rar file (doesnt matter where, can be deleted later)
 3. Run forge-1.19.4-45.0.40-installer.jar (This step wont work without java jdk!)
 4. Select install client option
-5. Win + R -> %appdata$
+5. Win + R -> %appdata%
 6. Open .minecraft/mods/
 7. Copy all mods in the mods folder into the .minecraft/mods folder
 8. Start minecraft
