@@ -118,8 +118,8 @@ dependency mod
 IMPORTANT:
 Requires installed Vanilla Minecraft (1.20.2) and [Openjdk](https://www.oracle.com/de/java/technologies/downloads/#java20) install on your pc.
 
-1. Download the [1.20.2 Release](https://github.com/Bust-Henry/Vanilla-Plus/releases/tag/1.20.2-Release)
-2. Extract rar file (doesnt matter where, can be deleted later) (use winrar, zip, etc.)
+1. Download the Vanilla-Plus.-.1.20.2.rar from the [1.20.2 Release](https://github.com/Bust-Henry/Vanilla-Plus/releases/tag/1.20.2-Release)
+2. Extract rar file (doesnt matter where, can be deleted later) (use winrar, 7zip, etc.)
 3. Run forge-1.20.2-48.0.34-installer.jar (This step wont work without java jdk!)
 4. Select install client option
 5. Win + R -> %appdata%
