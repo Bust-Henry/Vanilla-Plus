@@ -9,7 +9,7 @@ This page is a showcase of mods used and also a complete list of mods used!
 
 - [Vanilla-Plus](#vanilla-plus)
   - [Mod List](#mod-list)
-    - [chunkloaders-1.2.8-forge-mc1.20.2](#chunkloaders-123-forge-mc1193)
+    - [chunkloaders-1.2.8-forge-mc1.20.2](#chunkloaders-128-forge-mc1202)
     - [Clumps-forge-1.20.2-13.0.0.1](#clumps-forge-1194-10002)
     - [gravestone-1.20.2-1.0.5](#gravestone-1194-103)
     - [InventoryProfilesNext-forge-1.20.2-1.10.9](#inventoryprofilesnext-fabric-1194-195)
