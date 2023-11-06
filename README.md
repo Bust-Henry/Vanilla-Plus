@@ -25,7 +25,6 @@ This page is a showcase of mods used and also a complete list of mods used!
       - [supermartijn642corelib-1.1.15a-forge-mc1.20.2](#supermartijn642corelib-1115a-forge-mc1202)
   - [Quickstart Guide - Installation](#quickstart-guide---installation)
     - [Client installation](#client-installation)
-    - [Server installation](#server-installation)
   - [The end](#the-end)
 
 ## Mod List
@@ -114,11 +113,20 @@ dependency mod
 
 ## Quickstart Guide - Installation
 
-I swear i will add this if you want to play this. Its easy i promise.
-
 ### Client installation
 
-### Server installation
+IMPORTANT:
+Requires installed Vanilla Minecraft (1.20.2) and [Openjdk](https://www.oracle.com/de/java/technologies/downloads/#java20) install on your pc.
+
+1. Download the [1.20.2 Release](https://github.com/Bust-Henry/Vanilla-Plus/releases/tag/1.20.2-Release)
+2. Extract rar file (doesnt matter where, can be deleted later) (use winrar, zip, etc.)
+3. Run forge-1.20.2-48.0.34-installer.jar (This step wont work without java jdk!)
+4. Select install client option
+5. Win + R -> %appdata%
+6. Open .minecraft/mods/
+7. Copy all mods in the mods folder into the .minecraft/mods folder
+8. Start minecraft
+9. Select new profile called forge
 
 ## The end
 
@@ -126,10 +134,7 @@ Thats all folks, if you guys want to change something about this modpack (add or
 
 [chunkloading]: https://github.com/Bust-Henry/Vanilla-Plus/blob/master/images/ChunkLoading.gif "Title"
 [chunkloadingrecipes]: https://github.com/Bust-Henry/Vanilla-Plus/blob/master/images/ChunkLoadingRecipes.gif "Title"
-[elevator]: https://github.com/Bust-Henry/Vanilla-Plus/blob/master/images/Elevator.png "Title"
 [fullmapview]: https://github.com/Bust-Henry/Vanilla-Plus/blob/master/images/FullMapView.png "Title"
-[lumberaxe]: https://github.com/Bust-Henry/Vanilla-Plus/blob/master/images/Lumberaxe.gif "Title"
-[lumberaxeusage]: https://github.com/Bust-Henry/Vanilla-Plus/blob/master/images/LumberaxeUsage.gif "Title"
 [minimap]: https://github.com/Bust-Henry/Vanilla-Plus/blob/master/images/Minimap.png "Title"
 [toms]: https://github.com/Bust-Henry/Vanilla-Plus/blob/master/images/Toms.gif "Title"
 [tomsrecipe]: https://github.com/Bust-Henry/Vanilla-Plus/blob/master/images/TomsRecipe.gif "Title"
