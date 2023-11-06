@@ -10,19 +10,19 @@ This page is a showcase of mods used and also a complete list of mods used!
 - [Vanilla-Plus](#vanilla-plus)
   - [Mod List](#mod-list)
     - [chunkloaders-1.2.8-forge-mc1.20.2](#chunkloaders-128-forge-mc1202)
-    - [Clumps-forge-1.20.2-13.0.0.1](#clumps-forge-1194-10002)
-    - [gravestone-1.20.2-1.0.5](#gravestone-1194-103)
-    - [InventoryProfilesNext-forge-1.20.2-1.10.9](#inventoryprofilesnext-fabric-1194-195)
-    - [journeymap-1.20.2-5.9.16-forge](#journeymap-1194-594beta2-forge)
-    - [toms_storage-1.20.2-1.6.6](#toms_storage-1194-153)
-    - [trashcans-1.0.18b-forge-mc1.20](#trashcans-1017a-forge-mc1193)
-    - [waystones-forge-1.20.2-15.0.0](#waystones-forge-1194-1301)
+    - [Clumps-forge-1.20.2-13.0.0.1](#clumps-forge-1202-13001)
+    - [gravestone-1.20.2-1.0.5](#gravestone-1202-105)
+    - [InventoryProfilesNext-forge-1.20.2-1.10.9](#inventoryprofilesnext-forge-1202-1109)
+    - [journeymap-1.20.2-5.9.16-forge](#journeymap-1202-5916-forge)
+    - [toms_storage-1.20.2-1.6.6](#toms_storage-1202-166)
+    - [trashcans-1.0.18b-forge-mc1.20](#trashcans-1018b-forge-mc120)
+    - [waystones-forge-1.20.2-15.0.0](#waystones-forge-1202-1500)
     - [boring zone (dependency mods)](#boring-zone-dependency-mods)
-      - [balm-forge-1.20.2-8.0.1](#balm-forge-1194-602)
-      - [ConfiguredDefaults-v8.0.1-1.20.1-Forge](#configured-211-1194)
-      - [jei-1.20.2-forge-16.0.0.28](#jei-1194-forge-13001)
-      - [supermartijn642configlib-1.1.8-forge-mc1.20.2](#supermartijn642configlib-116b-forge-mc119)
-      - [supermartijn642corelib-1.1.15a-forge-mc1.20.2](#supermartijn642corelib-116-forge-mc1194)
+      - [balm-forge-1.20.2-8.0.1](#balm-forge-1202-801)
+      - [ConfiguredDefaults-v8.0.1-1.20.1-Forge](#configureddefaults-v801-1201-forge)
+      - [jei-1.20.2-forge-16.0.0.28](#jei-1202-forge-160028)
+      - [supermartijn642configlib-1.1.8-forge-mc1.20.2](#supermartijn642configlib-118-forge-mc1202)
+      - [supermartijn642corelib-1.1.15a-forge-mc1.20.2](#supermartijn642corelib-1115a-forge-mc1202)
   - [Quickstart Guide - Installation](#quickstart-guide---installation)
     - [Client installation](#client-installation)
     - [Server installation](#server-installation)
@@ -43,7 +43,6 @@ Added Items:
 
 a mod to compact xp orbs, primarily for server lag reducing
 
-
 ### gravestone-1.20.2-1.0.5
 
 quality of life mod that preserve your inventory on death and places it in a destroyable gravestone
@@ -61,7 +60,6 @@ Added HUD features:
 ![alt text][minimap]
 ![alt text][fullmapview]
 ![alt text][waypoint]
-
 
 ### toms_storage-1.20.2-1.6.6
 
