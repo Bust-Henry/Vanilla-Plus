@@ -2,34 +2,40 @@
 
 The offical Vanilla Plus Modpack of the Driftveil City Discord
 
-This modpack was designed for Minecraft version 1.20.2 .
+This modpack was designed for Minecraft version 1.20.2.
+This branch has the exact same mods as the 1.20.2-Forge branch, except some added shader mods (see Iris).
+Also some depency mods are different because this branch uses the fabric mod loader insted of the forge branch.
 An upadte for later versions of Minecraft are not planned yet. (But not impossible if we maybe play minecraft again in a year or something)
 
 This page is a showcase of mods used and also a complete list of mods used!
 
 - [Vanilla-Plus](#vanilla-plus)
   - [Mod List](#mod-list)
-    - [chunkloaders-1.2.8-forge-mc1.20.2](#chunkloaders-128-forge-mc1202)
-    - [Clumps-forge-1.20.2-13.0.0.1](#clumps-forge-1202-13001)
+    - [chunkloaders-1.2.8a-fabric-mc1.20.2](#chunkloaders-128a-fabric-mc1202)
+    - [Clumps-fabric-1.20.2-13.0.0.1](#clumps-fabric-1202-13001)
     - [gravestone-1.20.2-1.0.5](#gravestone-1202-105)
-    - [InventoryProfilesNext-forge-1.20.2-1.10.9](#inventoryprofilesnext-forge-1202-1109)
-    - [journeymap-1.20.2-5.9.16-forge](#journeymap-1202-5916-forge)
+    - [InventoryProfilesNext-fabric-1.20.2-1.10.9](#inventoryprofilesnext-fabric-1202-1109)
+    - [journeymap-1.20.2-5.9.16-fabric](#journeymap-1202-5916-fabric)
     - [toms_storage-1.20.2-1.6.6](#toms_storage-1202-166)
-    - [trashcans-1.0.18b-forge-mc1.20](#trashcans-1018b-forge-mc120)
-    - [waystones-forge-1.20.2-15.0.0](#waystones-forge-1202-1500)
+    - [trashcans-1.0.18b-fabric-mc1.20](#trashcans-1018b-fabric-mc120)
+    - [waystones-fabric-1.20.2-15.0.0](#waystones-fabric-1202-1500)
+    - [iris-mc1.20.2-1.6.10](#iris-mc1202-1610)
     - [boring zone (dependency mods)](#boring-zone-dependency-mods)
-      - [balm-forge-1.20.2-8.0.1](#balm-forge-1202-801)
-      - [ConfiguredDefaults-v8.0.1-1.20.1-Forge](#configureddefaults-v801-1201-forge)
-      - [jei-1.20.2-forge-16.0.0.28](#jei-1202-forge-160028)
-      - [supermartijn642configlib-1.1.8-forge-mc1.20.2](#supermartijn642configlib-118-forge-mc1202)
-      - [supermartijn642corelib-1.1.15a-forge-mc1.20.2](#supermartijn642corelib-1115a-forge-mc1202)
+      - [balm-fabric-1.20.2-8.0.1](#balm-fabric-1202-801)
+      - [ConfiguredDefaults-v8.0.1-1.20.1-fabric](#configureddefaults-v801-1201-fabric)
+      - [jei-1.20.2-fabric-16.0.0.28](#jei-1202-fabric-160028)
+      - [supermartijn642configlib-1.1.8-fabric-mc1.20.2](#supermartijn642configlib-118-fabric-mc1202)
+      - [fabric-api-0.90.7+1.20.2](#fabric-api-09071202)
+      - [fabric-language-kotlin-1.10.13+kotlin.1.9.20](#fabric-language-kotlin-11013kotlin1920)
+      - [libIPN-fabric-1.20.2-4.0.0](#libipn-fabric-1202-400)
+      - [sodium-fabric-mc1.20.2-0.5.3](#sodium-fabric-mc1202-053)
   - [Quickstart Guide - Installation](#quickstart-guide---installation)
     - [Client installation](#client-installation)
   - [The end](#the-end)
 
 ## Mod List
 
-### chunkloaders-1.2.8-forge-mc1.20.2
+### chunkloaders-1.2.8a-fabric-mc1.20.2
 
 a quality of life mod for permanently loading chunks
 
@@ -38,7 +44,7 @@ Added Items:
 ![alt text][chunkloading]
 ![alt text][chunkloadingrecipes]
 
-### Clumps-forge-1.20.2-13.0.0.1
+### Clumps-fabric-1.20.2-13.0.0.1
 
 a mod to compact xp orbs, primarily for server lag reducing
 
@@ -46,11 +52,11 @@ a mod to compact xp orbs, primarily for server lag reducing
 
 quality of life mod that preserve your inventory on death and places it in a destroyable gravestone
 
-### InventoryProfilesNext-forge-1.20.2-1.10.9
+### InventoryProfilesNext-fabric-1.20.2-1.10.9
 
 basicly adds buttons to sort chests
 
-### journeymap-1.20.2-5.9.16-forge
+### journeymap-1.20.2-5.9.16-fabric
 
 Map mod. Adds a minimap, waypoints and more map features
 
@@ -69,7 +75,7 @@ Added Items:
 ![alt text][toms]
 ![alt text][tomsrecipe]
 
-### trashcans-1.0.18b-forge-mc1.20
+### trashcans-1.0.18b-fabric-mc1.20
 
 adds a trashcan block that instantly voids items
 
@@ -78,7 +84,7 @@ Added Item:
 ![alt text][trashcan]
 ![alt text][trashcanrecipe]
 
-### waystones-forge-1.20.2-15.0.0
+### waystones-fabric-1.20.2-15.0.0
 
 adds a mod that lets you create waystones, that you can port to. (Combined with chunkloaders, to create farms further away from base)
 
@@ -89,27 +95,46 @@ This mod has to much items to all put them here, but these 2 will be the most im
 
 ![alt text][waystones]
 
+### iris-mc1.20.2-1.6.10
+
+This mod is used to add shaders to the game. It also does a bunch of game optimization.
+
+If you know how to use shaders you can add shaders like with any other shader mod (Optifine, standalone Iris, etc.)
+If you dont know how to add them, just look up how to add shader with Iris. This mod works exactly like standalone Iris.
+
 ### boring zone (dependency mods)
 
-#### balm-forge-1.20.2-8.0.1
+#### balm-fabric-1.20.2-8.0.1
 
-a dependecy mod for the mod waystones-forge-1.19.4-13.0.1
+a dependecy mod for the mod waystones-fabric-1.19.4-13.0.1
 
-#### ConfiguredDefaults-v8.0.1-1.20.1-Forge
+#### ConfiguredDefaults-v8.0.1-1.20.1-fabric
 
 a dependecy mod for a lot of mods. Used to add ingame config menues for some mods
 
-#### jei-1.20.2-forge-16.0.0.28
+#### jei-1.20.2-fabric-16.0.0.28
 
 adds an item lookup menu
 
-#### supermartijn642configlib-1.1.8-forge-mc1.20.2
+#### supermartijn642configlib-1.1.8-fabric-mc1.20.2
 
 dependency mod
 
-#### supermartijn642corelib-1.1.15a-forge-mc1.20.2
+#### fabric-api-0.90.7+1.20.2
+
+dependency mod for basicly all fabric mods
+
+#### fabric-language-kotlin-1.10.13+kotlin.1.9.20
+
+language tranlator for some fabric based mods
+
+#### libIPN-fabric-1.20.2-4.0.0
 
 dependency mod
+
+#### sodium-fabric-mc1.20.2-0.5.3
+
+dependency mod for the iris shader mod. Client side optimization mod.
 
 ## Quickstart Guide - Installation
 
@@ -120,13 +145,13 @@ Requires installed Vanilla Minecraft (1.20.2) and [Openjdk](https://www.oracle.c
 
 1. Download the [1.20.2 Release](https://github.com/Bust-Henry/Vanilla-Plus/releases/tag/1.20.2-Release)
 2. Extract rar file (doesnt matter where, can be deleted later) (use winrar, zip, etc.)
-3. Run forge-1.20.2-48.0.34-installer.jar (This step wont work without java jdk!)
+3. Run fabric-1.20.2-48.0.34-installer.jar (This step wont work without java jdk!)
 4. Select install client option
 5. Win + R -> %appdata%
 6. Open .minecraft/mods/
 7. Copy all mods in the mods folder into the .minecraft/mods folder
 8. Start minecraft
-9. Select new profile called forge
+9. Select new profile called fabric
 
 ## The end
 
