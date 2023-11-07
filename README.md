@@ -31,6 +31,8 @@ This page is a showcase of mods used and also a complete list of mods used!
       - [sodium-fabric-mc1.20.2-0.5.3](#sodium-fabric-mc1202-053)
   - [Quickstart Guide - Installation](#quickstart-guide---installation)
     - [Client installation](#client-installation)
+    - [Server installation](#server-installation)
+      - [Server optimization](#server-optimization)
   - [The end](#the-end)
 
 ## Mod List
@@ -152,6 +154,30 @@ Requires installed Vanilla Minecraft (1.20.2) and [Openjdk](https://www.oracle.c
 7. Copy all mods in the mods folder into the .minecraft/mods folder
 8. Start minecraft
 9. Select new profile called fabric
+
+### Server installation
+
+1. Download the [1.20.2-Fabric-Release](https://github.com/Bust-Henry/Vanilla-Plus/releases/tag/1.20.2-Fabric-Release)
+2. Extract rar file (in the folder where your server files should be later) (use winrar, zip, etc.)
+3. Run fabric-installer-0.11.2.exe
+4. Select install server option
+5. Select Minecraft Version 1.20.2
+6. Select Loader Version 0.14.24
+7. Press install
+8. Wait for the installation to finish
+9. In the Server successfully installed window click the Download server jar button
+10. To generate a launch script press the Generate button
+11. Now everything is done and you can press the Done button
+12. Run the start.bat
+
+#### Server optimization
+
+Here are some simple settings I suggest to improve server performance:
+
+1. Open the server.properties file with a text editor
+2. Set the sync-chunk-writes option to false
+3. Set the simulation-distance option to 5
+4. Set the view-distance option to 8
 
 ## The end
 
