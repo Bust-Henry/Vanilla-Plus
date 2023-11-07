@@ -28,6 +28,8 @@ This page is a showcase of mods used and also a complete list of mods used!
       - [supermartijn642corelib-1.1.15a-forge-mc1.20.2](#supermartijn642corelib-1115a-forge-mc1202)
   - [Quickstart Guide - Installation](#quickstart-guide---installation)
     - [Client installation](#client-installation)
+    - [Server installation](#server-installation)
+      - [Server optimization](#server-optimization)
   - [The end](#the-end)
 
 ## Mod List
@@ -130,6 +132,25 @@ Requires installed Vanilla Minecraft (1.20.2) and [Openjdk](https://www.oracle.c
 7. Copy all mods in the mods folder into the .minecraft/mods folder
 8. Start minecraft
 9. Select new profile called forge
+
+### Server installation
+
+1. Download the [1.20.2-Forge-Release](https://github.com/Bust-Henry/Vanilla-Plus/releases/tag/1.20.2-Forge-Release)
+2. Extract rar file (in the folder where your server files should be later) (use winrar, zip, etc.)
+3. Run forge-1.20.2-48.0.34-installer.jar (This step wont work without java jdk!)
+4. Select install server option
+5. Check that the target directory is still the one where you extracted the rar file
+6. Press ok (even if it says there are already files present)
+7. Launch the run.bat
+
+#### Server optimization
+
+Here are some simple settings I suggest to improve server performance:
+
+1. Open the server.properties file with a text editor
+2. Set the sync-chunk-writes option to false
+3. Set the simulation-distance option to 5
+4. Set the view-distance option to 8
 
 ## The end
 
