@@ -4,7 +4,7 @@ The offical Vanilla Plus Modpack of the Driftveil City Discord
 
 This modpack was designed for Minecraft version 1.20.2.
 This branch has the exact same mods as the 1.20.2-Forge branch, except some added shader mods (see Iris).
-Also some depency mods are different because this branch uses the fabric mod loader insted of the forge branch.
+Also some depency mods are different because this branch uses the fabric mod loader insted of the [forge branch](https://github.com/Bust-Henry/Vanilla-Plus/tree/1.20.2-Forge).
 An upadte for later versions of Minecraft are not planned yet. (But not impossible if we maybe play minecraft again in a year or something)
 
 This page is a showcase of mods used and also a complete list of mods used!
@@ -143,9 +143,9 @@ dependency mod for the iris shader mod. Client side optimization mod.
 IMPORTANT:
 Requires installed Vanilla Minecraft (1.20.2) and [Openjdk](https://www.oracle.com/de/java/technologies/downloads/#java20) install on your pc.
 
-1. Download the [1.20.2 Release](https://github.com/Bust-Henry/Vanilla-Plus/releases/tag/1.20.2-Release)
+1. Download the [1.20.2-Fabric-Release](https://github.com/Bust-Henry/Vanilla-Plus/releases/tag/1.20.2-Fabric-Release)
 2. Extract rar file (doesnt matter where, can be deleted later) (use winrar, zip, etc.)
-3. Run fabric-1.20.2-48.0.34-installer.jar (This step wont work without java jdk!)
+3. Run fabric-installer-0.11.2.exe
 4. Select install client option
 5. Win + R -> %appdata%
 6. Open .minecraft/mods/
