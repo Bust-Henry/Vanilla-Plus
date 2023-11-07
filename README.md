@@ -5,6 +5,9 @@ The offical Vanilla Plus Modpack of the Driftveil City Discord
 This modpack was designed for Minecraft version 1.20.2 .
 An upadte for later versions of Minecraft are not planned yet. (But not impossible if we maybe play minecraft again in a year or something)
 
+This is the Forge version of this modpack if you want to play on a server that is running the [fabric](https://github.com/Bust-Henry/Vanilla-Plus/tree/1.20.2-Fabric) version, you need to get the [fabric](https://github.com/Bust-Henry/Vanilla-Plus/tree/1.20.2-Fabric) version aswell.
+Also, if you want to play this modpack with shaders, i recommend you check out the [fabric](https://github.com/Bust-Henry/Vanilla-Plus/tree/1.20.2-Fabric) version aswell.
+
 This page is a showcase of mods used and also a complete list of mods used!
 
 - [Vanilla-Plus](#vanilla-plus)
