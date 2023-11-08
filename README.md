@@ -25,6 +25,8 @@ This page is a showcase of mods used and also a complete list of mods used!
       - [lithium-fabric-mc1.20.2-0.12.0](#lithium-fabric-mc1202-0120)
       - [starlight-1.1.3+fabric.5867eae](#starlight-113fabric5867eae)
       - [sodium-fabric-mc1.20.2-0.5.3](#sodium-fabric-mc1202-053)
+    - [Chunky-1.3.92](#chunky-1392)
+    - [spark-1.10.54-fabric](#spark-11054-fabric)
     - [boring zone (dependency mods)](#boring-zone-dependency-mods)
       - [balm-fabric-1.20.2-8.0.1](#balm-fabric-1202-801)
       - [jei-1.20.2-fabric-16.0.0.28](#jei-1202-fabric-160028)
@@ -130,6 +132,14 @@ Replaces minecraft light engine with a more optimized one
 Uses improved rendering system to improve ingame fps
 
 dependency mod for the iris shader mod. Client side optimization mod.
+
+### Chunky-1.3.92
+
+This mod is used to pregen chunks. If used properly this can improve the chunkloading immense.
+
+### spark-1.10.54-fabric
+
+This mod is a perfomance profiler. Its used to find sources of lag.
 
 ### boring zone (dependency mods)
 
