@@ -20,6 +20,11 @@ This page is a showcase of mods used and also a complete list of mods used!
     - [trashcans-1.0.18b-fabric-mc1.20](#trashcans-1018b-fabric-mc120)
     - [waystones-fabric-1.20.2-15.0.0](#waystones-fabric-1202-1500)
     - [iris-mc1.20.2-1.6.10](#iris-mc1202-1610)
+    - [perfomance mods](#perfomance-mods)
+      - [forcecloseloadingscreen-2.2.0](#forcecloseloadingscreen-220)
+      - [lithium-fabric-mc1.20.2-0.12.0](#lithium-fabric-mc1202-0120)
+      - [starlight-1.1.3+fabric.5867eae](#starlight-113fabric5867eae)
+      - [sodium-fabric-mc1.20.2-0.5.3](#sodium-fabric-mc1202-053)
     - [boring zone (dependency mods)](#boring-zone-dependency-mods)
       - [balm-fabric-1.20.2-8.0.1](#balm-fabric-1202-801)
       - [ConfiguredDefaults-v8.0.1-1.20.1-fabric](#configureddefaults-v801-1201-fabric)
@@ -28,7 +33,6 @@ This page is a showcase of mods used and also a complete list of mods used!
       - [fabric-api-0.90.7+1.20.2](#fabric-api-09071202)
       - [fabric-language-kotlin-1.10.13+kotlin.1.9.20](#fabric-language-kotlin-11013kotlin1920)
       - [libIPN-fabric-1.20.2-4.0.0](#libipn-fabric-1202-400)
-      - [sodium-fabric-mc1.20.2-0.5.3](#sodium-fabric-mc1202-053)
   - [Quickstart Guide - Installation](#quickstart-guide---installation)
     - [Client installation](#client-installation)
     - [Server installation](#server-installation)
@@ -104,6 +108,30 @@ This mod is used to add shaders to the game. It also does a bunch of game optimi
 If you know how to use shaders you can add shaders like with any other shader mod (Optifine, standalone Iris, etc.)
 If you dont know how to add them, just look up how to add shader with Iris. This mod works exactly like standalone Iris.
 
+### perfomance mods
+
+the mods listed here are only for perfomance, some of these are client only, but some are here to improve server performance.
+All of these are from this [optimization guide](https://gist.github.com/HexedHero/aab340a84db51913cb1106c2d85f4e4f).
+
+#### forcecloseloadingscreen-2.2.0
+
+Removes the hardcoded Loading terrain screen.
+This mod saves you like 2 seconds when joining a world.
+
+#### lithium-fabric-mc1.20.2-0.12.0
+
+Improves game rendering time
+
+#### starlight-1.1.3+fabric.5867eae
+
+Replaces minecraft light engine with a more optimized one
+
+#### sodium-fabric-mc1.20.2-0.5.3
+
+Uses improved rendering system to improve ingame fps
+
+dependency mod for the iris shader mod. Client side optimization mod.
+
 ### boring zone (dependency mods)
 
 #### balm-fabric-1.20.2-8.0.1
@@ -133,10 +161,6 @@ language tranlator for some fabric based mods
 #### libIPN-fabric-1.20.2-4.0.0
 
 dependency mod
-
-#### sodium-fabric-mc1.20.2-0.5.3
-
-dependency mod for the iris shader mod. Client side optimization mod.
 
 ## Quickstart Guide - Installation
 
