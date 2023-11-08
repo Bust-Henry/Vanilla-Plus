@@ -27,7 +27,6 @@ This page is a showcase of mods used and also a complete list of mods used!
       - [sodium-fabric-mc1.20.2-0.5.3](#sodium-fabric-mc1202-053)
     - [boring zone (dependency mods)](#boring-zone-dependency-mods)
       - [balm-fabric-1.20.2-8.0.1](#balm-fabric-1202-801)
-      - [ConfiguredDefaults-v8.0.1-1.20.1-fabric](#configureddefaults-v801-1201-fabric)
       - [jei-1.20.2-fabric-16.0.0.28](#jei-1202-fabric-160028)
       - [supermartijn642configlib-1.1.8-fabric-mc1.20.2](#supermartijn642configlib-118-fabric-mc1202)
       - [fabric-api-0.90.7+1.20.2](#fabric-api-09071202)
@@ -137,10 +136,6 @@ dependency mod for the iris shader mod. Client side optimization mod.
 #### balm-fabric-1.20.2-8.0.1
 
 a dependecy mod for the mod waystones-fabric-1.19.4-13.0.1
-
-#### ConfiguredDefaults-v8.0.1-1.20.1-fabric
-
-a dependecy mod for a lot of mods. Used to add ingame config menues for some mods
 
 #### jei-1.20.2-fabric-16.0.0.28
 
