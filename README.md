@@ -16,9 +16,9 @@ This page is a showcase of mods used and also a complete list of mods used!
     - [gravestone-1.20.2-1.0.5](#gravestone-1202-105)
     - [InventoryProfilesNext-fabric-1.20.2-1.10.9](#inventoryprofilesnext-fabric-1202-1109)
     - [journeymap-1.20.2-5.9.16-fabric](#journeymap-1202-5916-fabric)
+    - [custom-portals-3.2.2-1.20.2](#custom-portals-322-1202)
     - [toms_storage-1.20.2-1.6.6](#toms_storage-1202-166)
     - [trashcans-1.0.18b-fabric-mc1.20](#trashcans-1018b-fabric-mc120)
-    - [waystones-fabric-1.20.2-15.0.0](#waystones-fabric-1202-1500)
     - [iris-mc1.20.2-1.6.10](#iris-mc1202-1610)
     - [perfomance mods](#perfomance-mods)
       - [forcecloseloadingscreen-2.2.0](#forcecloseloadingscreen-220)
@@ -28,12 +28,14 @@ This page is a showcase of mods used and also a complete list of mods used!
     - [Chunky-1.3.92](#chunky-1392)
     - [spark-1.10.54-fabric](#spark-11054-fabric)
     - [boring zone (dependency mods)](#boring-zone-dependency-mods)
-      - [balm-fabric-1.20.2-8.0.1](#balm-fabric-1202-801)
       - [jei-1.20.2-fabric-16.0.0.28](#jei-1202-fabric-160028)
       - [supermartijn642configlib-1.1.8-fabric-mc1.20.2](#supermartijn642configlib-118-fabric-mc1202)
       - [fabric-api-0.90.7+1.20.2](#fabric-api-09071202)
       - [fabric-language-kotlin-1.10.13+kotlin.1.9.20](#fabric-language-kotlin-11013kotlin1920)
       - [libIPN-fabric-1.20.2-4.0.0](#libipn-fabric-1202-400)
+    - [cloth-config-12.0.109-fabric](#cloth-config-120109-fabric)
+    - [modmenu-8.0.0](#modmenu-800)
+    - [completeconfig-2.5.0](#completeconfig-250)
   - [Quickstart Guide - Installation](#quickstart-guide---installation)
     - [Client installation](#client-installation)
     - [Server installation](#server-installation)
@@ -73,6 +75,10 @@ Added HUD features:
 ![alt text][fullmapview]
 ![alt text][waypoint]
 
+### custom-portals-3.2.2-1.20.2
+
+Adds custom portals. Lets you create portals any size out of any block and connect them. Needs a special item to activate.
+
 ### toms_storage-1.20.2-1.6.6
 
 adds a simple storage system to link all chests to one terminal
@@ -90,17 +96,6 @@ Added Item:
 
 ![alt text][trashcan]
 ![alt text][trashcanrecipe]
-
-### waystones-fabric-1.20.2-15.0.0
-
-adds a mod that lets you create waystones, that you can port to. (Combined with chunkloaders, to create farms further away from base)
-
-This mod has to much items to all put them here, but these 2 will be the most important:
-
-- Waystone: Placable block that marks a teleportation spot.
-- Warp Scroll: Consumable that warps you to a waystone of your choice.
-
-![alt text][waystones]
 
 ### iris-mc1.20.2-1.6.10
 
@@ -143,10 +138,6 @@ This mod is a perfomance profiler. Its used to find sources of lag.
 
 ### boring zone (dependency mods)
 
-#### balm-fabric-1.20.2-8.0.1
-
-a dependecy mod for the mod waystones-fabric-1.19.4-13.0.1
-
 #### jei-1.20.2-fabric-16.0.0.28
 
 adds an item lookup menu
@@ -166,6 +157,18 @@ language tranlator for some fabric based mods
 #### libIPN-fabric-1.20.2-4.0.0
 
 dependency mod
+
+### cloth-config-12.0.109-fabric
+
+dependency mod for custom portals
+
+### modmenu-8.0.0
+
+Adds a mod overview in the menu. Also a dependency mod for custom portals
+
+### completeconfig-2.5.0
+
+lets you configure some mods in the mod menu. Also dependency mod for custom portals
 
 ## Quickstart Guide - Installation
 
@@ -221,4 +224,3 @@ Thats all folks, if you guys want to change something about this modpack (add or
 [trashcan]: https://github.com/Bust-Henry/Vanilla-Plus/blob/master/images/Trashcan.png "Title"
 [trashcanrecipe]: https://github.com/Bust-Henry/Vanilla-Plus/blob/master/images/TrashcanRecipe.png "Title"
 [waypoint]: https://github.com/Bust-Henry/Vanilla-Plus/blob/master/images/Waypoint.png "Title"
-[waystones]: https://github.com/Bust-Henry/Vanilla-Plus/blob/master/images/Waystones.gif "Title"
