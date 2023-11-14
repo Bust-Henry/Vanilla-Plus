@@ -17,9 +17,13 @@ This page is a showcase of mods used and also a complete list of mods used!
     - [InventoryProfilesNext-fabric-1.20.2-1.10.9](#inventoryprofilesnext-fabric-1202-1109)
     - [journeymap-1.20.2-5.9.16-fabric](#journeymap-1202-5916-fabric)
     - [custom-portals-3.2.2-1.20.2](#custom-portals-322-1202)
-    - [toms_storage-1.20.2-1.6.6](#toms_storage-1202-166)
+    - [toms\_storage-1.20.2-1.6.6](#toms_storage-1202-166)
     - [trashcans-1.0.18b-fabric-mc1.20](#trashcans-1018b-fabric-mc120)
     - [iris-mc1.20.2-1.6.10](#iris-mc1202-1610)
+    - [BetterF3-8.0.2-Fabric-1.20.2](#betterf3-802-fabric-1202)
+    - [doubledoors-1.20.2-5.1](#doubledoors-1202-51)
+    - [graves-3.1.1+1.20.2](#graves-3111202)
+    - [RoughlyEnoughItems-13.0.675](#roughlyenoughitems-130675)
     - [perfomance mods](#perfomance-mods)
       - [forcecloseloadingscreen-2.2.0](#forcecloseloadingscreen-220)
       - [lithium-fabric-mc1.20.2-0.12.0](#lithium-fabric-mc1202-0120)
@@ -28,7 +32,6 @@ This page is a showcase of mods used and also a complete list of mods used!
     - [Chunky-1.3.92](#chunky-1392)
     - [spark-1.10.54-fabric](#spark-11054-fabric)
     - [boring zone (dependency mods)](#boring-zone-dependency-mods)
-      - [jei-1.20.2-fabric-16.0.0.28](#jei-1202-fabric-160028)
       - [supermartijn642configlib-1.1.8-fabric-mc1.20.2](#supermartijn642configlib-118-fabric-mc1202)
       - [fabric-api-0.90.7+1.20.2](#fabric-api-09071202)
       - [fabric-language-kotlin-1.10.13+kotlin.1.9.20](#fabric-language-kotlin-11013kotlin1920)
@@ -36,6 +39,9 @@ This page is a showcase of mods used and also a complete list of mods used!
     - [cloth-config-12.0.109-fabric](#cloth-config-120109-fabric)
     - [modmenu-8.0.0](#modmenu-800)
     - [completeconfig-2.5.0](#completeconfig-250)
+    - [architectury-10.0.8-fabric](#architectury-1008-fabric)
+    - [collective-1.20.2-7.7](#collective-1202-77)
+    - [ForgeConfigAPIPort-v9.0.0-1.20.2-Fabric](#forgeconfigapiport-v900-1202-fabric)
   - [Quickstart Guide - Installation](#quickstart-guide---installation)
     - [Client installation](#client-installation)
     - [Server installation](#server-installation)
@@ -104,6 +110,22 @@ This mod is used to add shaders to the game. It also does a bunch of game optimi
 If you know how to use shaders you can add shaders like with any other shader mod (Optifine, standalone Iris, etc.)
 If you dont know how to add them, just look up how to add shader with Iris. This mod works exactly like standalone Iris.
 
+### BetterF3-8.0.2-Fabric-1.20.2
+
+Improves the F3 view to be more readable.
+
+### doubledoors-1.20.2-5.1
+
+Makes double doors open together.
+
+### graves-3.1.1+1.20.2
+
+Adds graves that hold your items when you die.
+
+### RoughlyEnoughItems-13.0.675
+
+Adds huge crafting recipe lookup menu. You can look up every item in the game. Also the new items added by the other mods.
+
 ### perfomance mods
 
 the mods listed here are only for perfomance, some of these are client only, but some are here to improve server performance.
@@ -138,10 +160,6 @@ This mod is a perfomance profiler. Its used to find sources of lag.
 
 ### boring zone (dependency mods)
 
-#### jei-1.20.2-fabric-16.0.0.28
-
-adds an item lookup menu
-
 #### supermartijn642configlib-1.1.8-fabric-mc1.20.2
 
 dependency mod
@@ -169,6 +187,18 @@ Adds a mod overview in the menu. Also a dependency mod for custom portals
 ### completeconfig-2.5.0
 
 lets you configure some mods in the mod menu. Also dependency mod for custom portals
+
+### architectury-10.0.8-fabric
+
+dependency mod for some fabric mods
+
+### collective-1.20.2-7.7
+
+dependency mod
+
+### ForgeConfigAPIPort-v9.0.0-1.20.2-Fabric
+
+dependency mod
 
 ## Quickstart Guide - Installation
 
