@@ -17,13 +17,14 @@ This page is a showcase of mods used and also a complete list of mods used!
     - [InventoryProfilesNext-fabric-1.20.2-1.10.9](#inventoryprofilesnext-fabric-1202-1109)
     - [journeymap-1.20.2-5.9.16-fabric](#journeymap-1202-5916-fabric)
     - [custom-portals-3.2.2-1.20.2](#custom-portals-322-1202)
-    - [toms\_storage-1.20.2-1.6.6](#toms_storage-1202-166)
+    - [toms_storage-1.20.2-1.6.6](#toms_storage-1202-166)
     - [trashcans-1.0.18b-fabric-mc1.20](#trashcans-1018b-fabric-mc120)
     - [iris-mc1.20.2-1.6.10](#iris-mc1202-1610)
     - [BetterF3-8.0.2-Fabric-1.20.2](#betterf3-802-fabric-1202)
     - [doubledoors-1.20.2-5.1](#doubledoors-1202-51)
     - [graves-3.1.1+1.20.2](#graves-3111202)
     - [RoughlyEnoughItems-13.0.675](#roughlyenoughitems-130675)
+    - [harvestwithease-1.20.2-7.1.0.0-fabric](#harvestwithease-1202-7100-fabric)
     - [perfomance mods](#perfomance-mods)
       - [forcecloseloadingscreen-2.2.0](#forcecloseloadingscreen-220)
       - [lithium-fabric-mc1.20.2-0.12.0](#lithium-fabric-mc1202-0120)
@@ -125,6 +126,10 @@ Adds graves that hold your items when you die.
 ### RoughlyEnoughItems-13.0.675
 
 Adds huge crafting recipe lookup menu. You can look up every item in the game. Also the new items added by the other mods.
+
+### harvestwithease-1.20.2-7.1.0.0-fabric
+
+Lets you harvest ready plants with right click. Also replants the seed.
 
 ### perfomance mods
 
